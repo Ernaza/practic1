@@ -3,5 +3,6 @@ public class Main {
         Animal animal = new Animal();
         animal.setName("123");
         System.out.println(animal.getName());
+        System.out.println("new ");
     }
 }
